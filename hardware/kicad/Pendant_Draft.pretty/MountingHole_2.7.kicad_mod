@@ -1,0 +1,8 @@
+(footprint "MountingHole_2.7" (version 20240108) (generator "pcbnew") (generator_version "8.0")
+  (layer "F.Cu")
+  (property "Reference" "REF**" (at 0 -4.05 0) (layer "F.SilkS") (effects (font (size 0.8 0.8) (thickness 0.13)) (hide yes)))
+  (property "Value" "MountingHole_2.7" (at 0 3.8 0) (layer "F.Fab") (effects (font (size 0.8 0.8) (thickness 0.13)) (hide yes)))
+  (attr through_hole)
+  (fp_rect (start -2.92 -2.92) (end 2.92 2.92) (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd"))
+  (pad "" np_thru_hole circle (at 0 0) (size 2.7 2.7) (drill 2.7) (layers "*.Cu" "*.Mask"))
+)
